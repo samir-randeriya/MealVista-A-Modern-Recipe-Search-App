@@ -57,6 +57,9 @@ Ensure you have the following installed:
 ## Deployment
 - The application is deployed at: [https://samir-frontend-developer.vercel.app/](#)
 
+## Project Documentation
+- https://docs.google.com/document/d/1U9cYhRGwmnIg3NUunpt3lKNtTiTSDKk49DdaL2e5KRs/edit?usp=sharing
+
 ## Folder Structure
 ```
 food-menu-webpage/
