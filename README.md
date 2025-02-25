@@ -55,7 +55,7 @@ Ensure you have the following installed:
 4. Open `http://localhost:5173/` in your browser.
 
 ## Deployment
-- The application is deployed at: [](#)
+- The application is deployed at: [https://samir-frontend-developer.vercel.app/](#)
 
 ## Folder Structure
 ```
